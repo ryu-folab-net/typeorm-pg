@@ -14,7 +14,7 @@
       "sqlite3": "^5.0.2"
    },
    "scripts": {
-      "start": "ts-node src/index.ts",
+      "start:cti": "ts-node src/cti/index.ts",
       "typeorm": "typeorm-ts-node-commonjs"
    }
 }
