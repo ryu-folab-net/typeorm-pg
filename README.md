@@ -9,3 +9,11 @@ See [Concrete Table Inheritance](https://typeorm.io/entity-inheritance#concrete-
 1. Run `npm i` command
 2. Setup database settings inside `data-source.ts` file
 3. Run `npm run start:cti` command
+
+## Single Table Inheritance
+
+See [Single Table Inheritance](https://typeorm.io/entity-inheritance#single-table-inheritance)
+
+1. Run `npm i` command
+2. Setup database settings inside `data-source.ts` file
+3. Run `npm run start:sti` command

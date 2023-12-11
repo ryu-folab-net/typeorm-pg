@@ -15,6 +15,7 @@
    },
    "scripts": {
       "start:cti": "ts-node src/cti/index.ts",
+      "start:sti": "ts-node src/sti/index.ts",
       "typeorm": "typeorm-ts-node-commonjs"
    }
 }
